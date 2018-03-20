@@ -15,5 +15,4 @@ But we're currently working on the structure of this platform.
 An Issue was created for the first feature. Please comment on the issue with your ideas and tips or feel 
 free to add your own ideas on what might be a helpful feature for an open-source research platform.
 
-If you are contributing to open source for the first time (like us), check out this free series, 
-[How to Contribute to an Open Source Project on GitHub] (https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+If you are contributing to open source for the first time (like us), check out this free series on https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
