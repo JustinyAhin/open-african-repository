@@ -1,4 +1,4 @@
-# open-african-repository
+# Open African Repository
 
 # Welcome
 Thank you for visiting the Open African Repository project on GitHub.
