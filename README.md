@@ -37,3 +37,6 @@ Thank you so much for visiting the Open African Repository project. We really ho
 
 ## Code of Conduct
 The Open African Repository adheres to a Code of Conduct
+
+This code explain the way people must work in the project
+
