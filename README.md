@@ -22,7 +22,7 @@ The OAR is an open source project that aims to create a web platform that will b
 This platform will be powered by a community of contributors who will, on the one hand, identify the different sources of African scientific content, and on the other hand will propose them for the platform with abstracts.
 
 ## Who we are
-The open african repository is a project initiated by Justin S. Ahinon (University of Parakou) under the mentorship of Madeleine Bonsma (University of Toronto) and Derek Howard (University of Toronto) with the Mozila Open Leaders Initiative. 
+The open african repository is a project initiated by Justin S. Ahinon (University of Parakou) with the Mozila Open Leaders Initiative. 
 
 ## What do we need
 You! In whatever way you can help.
