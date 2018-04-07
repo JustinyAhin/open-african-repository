@@ -1,6 +1,6 @@
 # Open African Repository
 
-![alt tag](https://user-images.githubusercontent.com/33403964/38339726-b541dde2-3867-11e8-83d3-99e8b342d949.png)
+![alt tag](https://user-images.githubusercontent.com/33403964/38451257-c467b4d6-3a24-11e8-8a5c-1e817806f36b.png)
 
 # Welcome
 Thank you for visiting the Open African Repository project on GitHub.
